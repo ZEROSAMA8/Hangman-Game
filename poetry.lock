@@ -1,0 +1,15 @@
+[[package]]
+name = "logo"
+version = "1.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "25e62697c36eede5648df592a5522298d9e2f11784d27167cf6241e63d6d9f49"
+
+[metadata.files]
+logo = []
